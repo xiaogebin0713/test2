@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T07:50:12.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XcUqXFG6u8o5fvPryRks" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T07:50:30.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9otyzO0nYioo9BQs3-gf" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <UserObject label="国资云172 30 3.13web服务器&#xa;sbss.tagenyoto.com&#xa;管理员&#xa;反向代理到web服务器的sbss.tagenyoto.com域名&#xa;国资云172.30.3.6(物联)&#xa;通过frp内网穿运到120服务器&#xa;物业机房192.168.1.120(提供fp服务)&#xa;重过内网穿透来映射国资云172.30.3.6的8014端口和1883端口到120服务器的18014端口和11883端口&#xa;实际提供服务--&#xa;通过外网&#xa;(tagenyoto.com)端口映射提供端口23011/24553&#xa;测试仪器&#xa;通过外网(sp.tagenyoto.com)提供18014/11833端口&#xa;电种梯" link="国资云172 30 3.13web服务器&#xa;sbss.tagenyoto.com&#xa;管理员&#xa;反向代理到web服务器的sbss.tagenyoto.com域名&#xa;国资云172.30.3.6(物联)&#xa;通过frp内网穿运到120服务器&#xa;物业机房192.168.1.120(提供fp服务)&#xa;重过内网穿透来映射国资云172.30.3.6的8014端口和1883端口到120服务器的18014端口和11883端口&#xa;实际提供服务--&#xa;通过外网&#xa;(tagenyoto.com)端口映射提供端口23011/24553&#xa;测试仪器&#xa;通过外网(sp.tagenyoto.com)提供18014/11833端口&#xa;电种梯" id="q5Ar7kVCwhl43sxiqtaF-0">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxCell style="text;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="560" y="110" width="560" height="240" as="geometry" />
           </mxCell>
         </UserObject>
